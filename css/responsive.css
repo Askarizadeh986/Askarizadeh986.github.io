@@ -1,0 +1,66 @@
+@import url(style.css);
+@import url(../index.html);
+@media  (max-width: 767px) {
+    .navbar{
+        size: auto;
+    }
+    img{
+        size: auto;
+        
+    }
+    html{
+        background-size: auto;
+    }
+    video{
+        width: 360px;
+    }
+    button{
+        size: auto;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .navbar{
+        size: auto;
+    }
+    img{
+        size: auto;
+        
+    }
+    html{
+        background-size: auto;
+        font-size: auto !important;
+    }
+    video{
+        width: 240px;
+    }
+    button{
+        size: auto;
+    }
+}
+@media print {
+    *{
+        font-family: serif !important;
+        color: black !important;
+        background-color: white !important;
+    }
+}
+html {
+    transition-duration: 1s;
+	font-size: calc(10px + 0.5vw) !important;
+}
+
+section { font-size: 1rem; }
+
+p,h1,h2,h3,h4,h5 {
+	margin-top: .5em;
+	margin-bottom: .25em; 
+}
+
+p { font-size: 1em; }
+
+h1 { font-size: 3em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1em; }
+h5 { font-size: .83em; }
+h6 { font-size: .75em; }

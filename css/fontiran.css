@@ -1,0 +1,345 @@
+/**
+*
+*	Name:			DANA Fonts
+*	Version:			3.0
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		nov 12, 2021
+*	Updated on:		nov 12, 2021
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت دانا یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+DANA fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+/* فونت دانا معمولی */
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 10;
+	src: url('../fonts/Dana/woff2/Dana-Hairline.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Hairline.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../fonts/Dana/woff2/Dana-Thin.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Thin.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 200;
+	src: url('../fonts/Dana/woff2/Dana-UltraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-UltraLight.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/Dana/woff2/Dana-Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Light.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/Dana/woff2/Dana-Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Medium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 600;
+	src: url('../fonts/Dana/woff2/Dana-DemiBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-DemiBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/Dana/woff2/Dana-ExtraBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-ExtraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../fonts/Dana/woff2/Dana-Black.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Black.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 930;
+	src: url('../fonts/Dana/woff2/Dana-ExtraBlack.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-ExtraBlack.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 960;
+	src: url('../fonts/Dana/woff2/Dana-Heavy.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Heavy.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 990;
+	src: url('../fonts/Dana/woff2/Dana-Fat.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Fat.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/Dana/woff2/Dana-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/Dana/woff2/Dana-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/Dana/woff/Dana-Regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+/* فونت دانا وریبل */
+@font-face { 
+    font-family: 'DanaVF';
+    src: url('../fonts/Dana/DanaVF.woff') format('woff-variations'),
+    /* will be the standard and works in Safari now */
+    url('../fonts/Dana/DanaVF.woff') format('woff');
+    /* for the other supporting browsers */
+    font-display: fallback;
+}
+
+/* فونت مربع */
+/**
+*
+*	Name:			Morabba Fonts
+*	Version:			1.0
+*	Author:			Hasan Manzoori (moslemebrahimi.com)
+*	Created on:		Apr 22, 2021
+*	Updated on:		Apr 22, 2021
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونتمربع Xا یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+Morabba fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+------------------------------------------------------------------------------------- fonts/-
+*
+**/
+
+
+
+
+@font-face {
+	font-family: Morabba;
+	font-style: normal;
+	font-weight: 200;
+	src: url('../fonts/Morabba/woff/Morabba-UltraLight.woff') format('woff'),
+	url('../fonts/Morabba/woff2/Morabba-UltraLight.woff2') format('woff2');
+}
+
+
+
+@font-face {
+	font-family: Morabba;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../fonts/Morabba/woff/Morabba-Heavy.woff') format('woff'),
+	url('../fonts/Morabba/woff2/Morabba-Heavy.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: Morabba;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/Morabba/woff/Morabba-bold.woff') format('woff'),
+	url('../fonts/Morabba/woff2/Morabba-bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: Morabba;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/Morabba/woff/Morabba-regular.woff') format('woff'),
+	url('../fonts/Morabba/woff2/Morabba-regular.woff2') format('woff2');
+}
+
+
+/* ایران سنس x */
+/**
+*
+*	Name:			IRANSansX Fonts
+*	Version:			2.4
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		Apr 22, 2021
+*	Updated on:		Jan 22, 2022
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونتایران سنس Xا یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+IRANSansX fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+------------------------------------------------------------------------------------- fonts/-
+*	
+**/
+
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-Thin.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-Thin.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 200;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-UltraLight.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-UltraLight.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-Light.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-Light.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-Medium.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-Medium.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 600;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-DemiBold.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-DemiBold.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-ExtraBold.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-ExtraBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-Black.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-Black.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-Bold.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-Bold.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/IRANSansX/woff/IRANSansX-Regular.woff') format('woff'),   
+	url('../fonts/IRANSansX/woff2/IRANSansX-Regular.woff2') format('woff2');	
+}
+
+@font-face {
+    font-family: 'iransansxv';
+    src: url('../fonts/IRANSansX/IRANSansXV.woff') format('woff-variations'),
+    /* will be the standard and works in Safari now */
+    url('../fonts/IRANSansX/IRANSansXV.woff2') format('woff2');
+    /* for the other supporting browsers */
+    font-weight: 100 900;
+    font-display: fallback;
+
+}
+
+/* تی امپی */
+
+@font-face { 
+    font-family: 'TMPVF';
+    src: url('../fonts/TMP/TMPVF.woff') format('woff-variations'),
+    /* will be the standard and works in Safari now */
+    url('../fonts/TMP/TMPVF.woff2') format('woff2');
+    /* for the other supporting browsers */
+    font-display: fallback;
+}
+/* فونت پینار */
+@font-face {
+	font-family:'PinarVF' ;
+	font-weight: 100 900;
+	src: url('../fonts/Pinar/Pinar-VF[wght-KSHD-DSTY].woff2') format('woff-variations');
+	font-display: fallback;
+}
+
+@font-face {
+	font-family:'Pinar' ;
+	font-weight: 100;
+	src: url('../fonts/Pinar/Pinar-Light.woff2') format('woff-variations');
+	font-display: fallback;
+}
+
+@font-face {
+	font-family:'Pinar' ;
+	font-weight: normal;
+	src: url('../fonts/Pinar/Pinar-Regular.woff2') format('woff-variations');
+	font-display: fallback;
+}
+
+@font-face {
+	font-family:'Pinar' ;
+	font-weight: 500;
+	src: url('../fonts/Pinar/Pinar-Medium.woff2') format('woff-variations');
+	font-display: fallback;
+}
+@font-face {
+	font-family:'Pinar' ;
+	font-weight: 600;
+	src: url('../fonts/Pinar/Pinar-SemiBold.woff2') format('woff-variations');
+	font-display: fallback;
+}
+@font-face {
+	font-family:'Pinar' ;
+	font-weight: bold;
+	src: url('../fonts/Pinar/Pinar-Bold.woff2') format('woff-variations');
+	font-display: fallback;
+}
+@font-face {
+	font-family:'Pinar' ;
+	font-weight: 800;
+	src: url('../fonts/Pinar/Pinar-ExtraBold.woff2') format('woff-variations');
+	font-display: fallback;
+}
+@font-face {
+	font-family:'Pinar' ;
+	font-weight: 900;
+	src: url('../fonts/Pinar/Pinar-Black.woff2') format('woff-variations');
+	font-display: fallback;
+}

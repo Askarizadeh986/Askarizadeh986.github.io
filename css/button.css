@@ -1,0 +1,46 @@
+@import url(fontiran.css);
+button {
+    position: relative;
+    display: inline-block;
+    margin: 15px;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 100%;
+    text-decoration: none;
+    color: midnightblue;
+    background: transparent;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+    border-radius: 30px;
+    border: 2px solid #3800f1;
+    border-radius: 10px;
+    box-shadow: inset 1 1 1 1 #4208ff;
+    font-family:Dana;
+    font-weight: 400;
+    background-color: aqua;
+   }
+   @supports (font-variation-settings: normal) {
+        button{
+            font-family: DanaVF;
+            font-variation-settings:"wght" 400,"KASH"0;
+        }
+        button:hover{
+        font-family: DanaVF;
+        font-variation-settings:"wght" 700,"KASH"20;
+        }
+        button:active{
+            font-family:DanaVF;
+            font-variation-settings: "wght" 800,"KASH"30;
+        }
+   }
+   
+   button:hover {
+    color: darkred;
+    box-shadow: inset 0 -100px 0 0 gold;
+    
+   }
+   
+   button:active {
+    filter: opacity(0.9);
+    transform: scale(1.1);
+   }
